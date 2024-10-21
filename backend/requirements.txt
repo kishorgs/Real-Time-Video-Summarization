@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+moviepy
+pydub
+speechrecognition
+pyaudio
+opencv-python
+rich
+google-generativeai
